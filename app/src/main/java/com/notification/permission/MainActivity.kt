@@ -18,6 +18,10 @@ class MainActivity : AppCompatActivity() {
 
 //        askNotificationPermission()
 //        getFirebaseregistrationToken()
+
+    }
+    fun onTestBranch(){
+        print("dfdfq")
     }
 
     override fun onResume() {
